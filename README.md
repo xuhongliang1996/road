@@ -11,7 +11,7 @@ git：大神廖雪峰的git教程很不错[廖雪峰的官方网站](http://www.
 github：[教程](http://www.runoob.com/w3cnote/git-guide.html)这里自己多搜搜教程，多练练因为是英文可能上手很慢  
 码云：[另一个开源代码库](https://git.oschina.net/)
 ## JS+DOM
-JS+DOM：同样看[视频](http://www.imooc.com/course/programdetail/pid/32)看http://www.w3cschool.cn/javascript/入门  
+JS+DOM：同样看[视频](http://www.imooc.com/course/programdetail/pid/32)看[w3cshool](http://www.w3cschool.cn/javascript/ )
 ## JQ+AJAX
 ## HTML5+CSS3
 ## Bootstrap
