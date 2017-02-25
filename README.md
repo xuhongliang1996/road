@@ -7,7 +7,7 @@ CSS：[w3cshool](http://www.w3cschool.cn/css/)
 [慕课网前端工程师](http://www.imooc.com/course/programdetail/pid/32)
 看书不建议一开始看，建议掌握一定之后再看那样才能看懂。
 ## git github
-git：大神廖雪峰的git教程很不错[廖雪峰的官方网站](http://www.imooc.com/course/programdetail/pid/32)  
+git：大神廖雪峰的git教程很不错[廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
 github：[教程](http://www.runoob.com/w3cnote/git-guide.html)这里自己多搜搜教程，多练练因为是英文可能上手很慢  
 码云：[另一个开源代码库](https://git.oschina.net/)
 ## JS+DOM
